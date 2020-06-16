@@ -1,0 +1,73 @@
+h1{
+    display: inline-block;
+    border-bottom: solid 10px #ee4c46;   
+}
+
+table,th,td{
+    padding: 10px ;  
+}
+
+table{
+    display: inline-block;   
+}
+
+th{
+    background-color:rgb(250, 175, 90) ;
+    width: 20%;
+}
+
+td{
+    background-color:#fdf393 ;
+    width: 80%;
+}
+
+h2{
+    padding: 0.25em 0.5em;
+    background: transparent;
+    border-left: solid 5px #fdd700;
+}
+
+h3{
+    border-bottom:dotted 3px #f8d301;
+}
+
+.hobby-detail{
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    margin: 0px 10px;
+}
+
+.hobby-description {
+    text-align: left;
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    background: #fff8e8;
+    border-left: solid 10px #ffc06e;
+}
+
+footer{
+    background-color:#2836f5 ;
+    text-align: center;
+    color: #ffffff ;
+}
+
+.icon{
+    display: inline-block;
+}
+
+ul {
+    background: #fffde8;
+    box-shadow: 10px 10px 10px 10px rgba(146,121,121,0.6);
+    border: dashed 2px #ffb03f;
+    border-radius: 9px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 0.5em 0.5em 0.5em 2em;
+  }
+  
+  ul li {
+    line-height: 1.5;
+    padding: 0.5em 0;
+  }
